@@ -52,5 +52,3 @@
 📫 Always learning and exploring new technologies
 
 ---
-
-*"Bridging the gap between design, development, and intelligent systems"*
