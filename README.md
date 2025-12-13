@@ -29,26 +29,3 @@
 **Version Control:** Git, GitHub  
 **Build Tools:** Maven, npm
 
-## Currently Learning
-
-- Advanced Deep Learning architectures  
-- Computer Vision & NLP  
-- Cloud deployment (AWS, Azure)  
-- Modern frontend frameworks and libraries  
-- UI/UX design principles  
-- Model optimization techniques
-
-## Goals
-
-- Master neural network architectures and training pipelines  
-- Build production-ready AI-powered applications  
-- Develop expertise in both design and development  
-- Contribute to open-source ML/AI projects  
-- Create seamless user experiences with modern web technologies
-
-## Connect
-
-💼 Open to collaboration on AI/ML and web development projects  
-📫 Always learning and exploring new technologies
-
----
