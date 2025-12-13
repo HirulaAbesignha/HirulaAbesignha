@@ -21,7 +21,7 @@
 ## Tech Stack
 
 **Languages:** Python, C, C++, Java, JavaScript  
-**Frontend:*React, Tailwind CSS, Bootstrap*
+**Frontend:** React, Tailwind CSS, Bootstrap*
 **Backend:** Spring Boot, Node.js  
 **Databases:** MySQL, MongoDB  
 **ML/AI:** TensorFlow, PyTorch, scikit-learn, Keras  
