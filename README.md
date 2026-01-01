@@ -5,18 +5,22 @@
 
 - Artificial Intelligence & Machine Learning  
 - Deep Learning & Neural Network Architectures  
-- Model Training & Optimization  
-- Frontend Development & User Experience  
-- Graphic Design & Visual Communication  
+- Model Training, Evaluation & Optimization  
+- Data Science & Analytics  
+- Software Development  
 - Full-Stack Web Development  
-- Data Science & Analytics
+- Secure Application Development  
+- Cybersecurity Fundamentals  
+- Web & System Security  
+
 
 ## What I Do
 
-- **Frontend Development** – Building responsive, modern web interfaces  
-- **Graphic Design** – Creating visual assets and UI/UX designs  
-- **Machine Learning** – Training models and experimenting with neural networks  
-- **Full-Stack Projects** – End-to-end web application development  
+- **Software Development** – Building scalable, efficient applications with clean and maintainable code  
+- **Artificial Intelligence & Machine Learning** – Developing and training models, experimenting with neural networks, and data-driven solutions  
+- **Web & System Security** – Identifying vulnerabilities and defending against common attacks (OWASP, secure APIs)  
+- **Cybersecurity Fundamentals** – Network security, encryption, authentication, and access control  
+- **Frontend & Full-Stack Development** – Creating responsive web interfaces and end-to-end applications  
 
 ## Tech Stack
 
