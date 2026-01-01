@@ -1,5 +1,5 @@
-#### B.Sc. (Hons) in Artificial Intelligence, Sri Lanka Institute of Information Technology ( SLIIT )
-> Frontend developer and designer exploring AI/ML and full-stack development
+#### B.Sc. (Hons) in Cyber Security, Sri Lanka Institute of Information Technology ( SLIIT )
+> Software Developer focused on AI/ML and Cybersecurity, with a strong interest in building secure and intelligent systems.
 
 ## Interests
 
