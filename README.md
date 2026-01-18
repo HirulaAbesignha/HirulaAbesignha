@@ -1,4 +1,4 @@
-#### B.Sc. (Hons) in Cyber Security, Sri Lanka Institute of Information Technology ( SLIIT )
+#### B.Sc. (Hons) in Information Technology, Sri Lanka Institute of Information Technology ( SLIIT )
 > Software Developer focused on AI/ML and Cybersecurity, with a strong interest in building secure and intelligent systems.
 
 ## Interests
